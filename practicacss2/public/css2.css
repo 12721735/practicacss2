@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.h1{
+	background-color: rgb(135,207,207);
+	text-align: center;
+}
+.img:hover{
+	opacity: 0.3;
+	
+}
+.p{
+	text-align: center;
+}
+.palabra:hover{
+	background-color: rgb(135,207,207);
+	
+}
+.p2{
+	color: blue;
+	box-sizing:content-box;
+	display:block;
+	border: black 2px solid;
+	width: 1000px;
+	background-image: url("img/valencia_antigua.jpg");
+}
+
+.p3{
+	text-align: center;
+	background-color: rgb(135,207,207);
+}
+.hr{
+	background-color: blue;
+	height: 15px;
+}
+.hr2{
+	width: 800px;
+}
